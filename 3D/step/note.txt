@@ -1,0 +1,2 @@
+[title] PipeClumpV_V4
+[FreeCAD version] 1.0.0
